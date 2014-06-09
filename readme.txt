@@ -1,4 +1,4 @@
-PacketPass is the working prototype of firewall manager that makes management of cross-geography security zones in the cloud easy and intuitive.
+PacketPass is the prototype of a firewall manager that makes management of cross-geography security zones in the cloud easy and intuitive.
 
 Objectives:
 	Dynamic Security Zones with editable policies in real-time
